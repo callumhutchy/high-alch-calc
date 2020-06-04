@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/high-alch-calc/static/css/main.d1b05096.chunk.css",
-    "main.js": "/high-alch-calc/static/js/main.d113e018.chunk.js",
-    "main.js.map": "/high-alch-calc/static/js/main.d113e018.chunk.js.map",
+    "main.css": "/high-alch-calc/static/css/main.99d418fb.chunk.css",
+    "main.js": "/high-alch-calc/static/js/main.66bae210.chunk.js",
+    "main.js.map": "/high-alch-calc/static/js/main.66bae210.chunk.js.map",
     "runtime-main.js": "/high-alch-calc/static/js/runtime-main.1afa35a9.js",
     "runtime-main.js.map": "/high-alch-calc/static/js/runtime-main.1afa35a9.js.map",
     "static/js/2.a2ec0695.chunk.js": "/high-alch-calc/static/js/2.a2ec0695.chunk.js",
     "static/js/2.a2ec0695.chunk.js.map": "/high-alch-calc/static/js/2.a2ec0695.chunk.js.map",
     "index.html": "/high-alch-calc/index.html",
-    "precache-manifest.33b27d584313abb87c28c10298f3c5ad.js": "/high-alch-calc/precache-manifest.33b27d584313abb87c28c10298f3c5ad.js",
+    "precache-manifest.0922010dc32a8c1c4b9f15ae3173f716.js": "/high-alch-calc/precache-manifest.0922010dc32a8c1c4b9f15ae3173f716.js",
     "service-worker.js": "/high-alch-calc/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/high-alch-calc/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.99d418fb.chunk.css.map": "/high-alch-calc/static/css/main.99d418fb.chunk.css.map",
     "static/js/2.a2ec0695.chunk.js.LICENSE.txt": "/high-alch-calc/static/js/2.a2ec0695.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/high-alch-calc/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1afa35a9.js",
     "static/js/2.a2ec0695.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.d113e018.chunk.js"
+    "static/css/main.99d418fb.chunk.css",
+    "static/js/main.66bae210.chunk.js"
   ]
 }
