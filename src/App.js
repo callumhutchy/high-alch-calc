@@ -20,8 +20,6 @@ function App() {
 
           </table>
         </div>
-
-
       </header>
     </div>
   );
