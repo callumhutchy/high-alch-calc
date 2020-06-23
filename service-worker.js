@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/high-alch-calc/precache-manifest.9a5a475e1b8f0c1c2766324fa119b817.js"
+  "/high-alch-calc/precache-manifest.969071c7e994a66eb15950b40e6b452a.js"
 );
 
 self.addEventListener('message', (event) => {

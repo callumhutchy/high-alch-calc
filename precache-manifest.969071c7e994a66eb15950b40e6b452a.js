@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62fd46651b19b3b733ce876d056ef418",
+    "revision": "3df48941111b8db8c6f2aeaf140bac7f",
     "url": "/high-alch-calc/index.html"
   },
   {
-    "revision": "f8aa9eda79b4964c2db2",
+    "revision": "80c8f2f4a4fa3e0de526",
     "url": "/high-alch-calc/static/css/main.99d418fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/high-alch-calc/static/js/2.a2ec0695.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8aa9eda79b4964c2db2",
-    "url": "/high-alch-calc/static/js/main.66bae210.chunk.js"
+    "revision": "80c8f2f4a4fa3e0de526",
+    "url": "/high-alch-calc/static/js/main.53eba48f.chunk.js"
   },
   {
     "revision": "187645b48e45da5ef7b5",
