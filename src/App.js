@@ -140,7 +140,7 @@ async function WaitForData() {
 
 //Get current GE prices from Runelite API, Runelite API is more reliable than other APIs i've tried
 async function GetPrices() {
-  let response = await fetch('HTTPS://api.runelite.net/runelite-1.6.20/item/prices');
+  let response = await fetch('HTTPS://api.runelite.net/runelite-1.6.26.1/item/prices');
   let data = await response.json();
   return data;
 }
